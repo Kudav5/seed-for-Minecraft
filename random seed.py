@@ -6,3 +6,5 @@ b = random.randint(3, 10)
 
 seed = "".join(random.sample(a, b))
 print(seed)
+
+# by Pro Indo ASEAN
